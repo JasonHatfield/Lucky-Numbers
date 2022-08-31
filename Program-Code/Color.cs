@@ -14,6 +14,4 @@ namespace Lucky_Numbers
         }
         public int FavoriteColor { get; set; }
     }
-
-    
 }
